@@ -1,6 +1,6 @@
 ## Core Principles
 
-1. **Human-written code only** — **No AI code generation**. Systems programming requires direct authorship and a clear understanding of what is built and why.
+1. **All Code Must be Human Reviewed** — **No Vibe-Coding**. Systems programming requires direct authorship and a clear understanding of what is built and why.
 
 2. **Correctness is non-negotiable** — Software must work reliably and predictably. Bugs are failures, not features.
 
@@ -21,12 +21,6 @@
 10. **Be responsible for your software** — Once you release software, keep it maintained or provide a better alternative. Don't abandon your work.
 
 #### \* **Systems Programmer**
-A systems programmer is someone who builds software with an explicit understanding of how it executes on real hardware. **They reason directly about memory, data layout, data flow, control flow, and performance characteristics**. This definition is inspired by ideas expressed by Jon Blow and Andrew Kelley, emphasizing responsibility, predictability, and deep understanding over convenience or automation.
+A systems programmer is someone who builds software with an explicit understanding of how it executes on real hardware. **They reason directly about memory, data layout, data flow, control flow, and performance characteristics**. This definition is inspired by ideas expressed by Jonathan Blow and Casey Muratori, emphasizing responsibility, predictability, and deep understanding over convenience or automation.
 
 **Systems Programmers** are the people keeping civilization from collapsing.
-
----
-
-## **AI Code Generation Principle**
-
-**We don't use AI to write our software**. When AI writes your code, you lose understanding of the details. You cannot be a **systems programmer\*** if you don't understand the system you're building. AI-generated code creates confusion, obscures bugs, and accumulates technical debt that nobody fully comprehends.
